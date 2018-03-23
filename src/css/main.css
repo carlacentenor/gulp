@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+    font-family: Courier New, Courier, monospace;
+
+}
+
+h1{
+    background-color: aqua;
+}
